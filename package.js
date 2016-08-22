@@ -1,6 +1,6 @@
 Package.describe({
   name: 'aknock:newrelic',
-  version: '1.29.0',
+  version: '1.29.1',
   // Brief, one-line summary of the package.
   summary: 'Newrelic package for meteor',
   // URL to the Git repository containing the source code for this package.

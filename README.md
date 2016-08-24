@@ -5,7 +5,7 @@ This uses version 1.29.3 of the NewRelic package.
 
 #### To Install
 
-    meteor add qknock:newrelic
+    meteor add aknock:newrelic
 
 #### To Configure
 
